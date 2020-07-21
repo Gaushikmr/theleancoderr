@@ -5,15 +5,19 @@
 <br/>
 
 Hi, My name is Yashwant Singh, I'm pursuing graduation in Bachelors of Computer Application(BCA) 2nd-year. I'm proficient in CoreJava and have hands-on experience in Servlets and JSP. I believe in learning and sharing that's why I have created [webdevofficial](https://www.instagram.com/webdevofficial) along with two other tech enthusiasts. Besides programming, I love play video games, creating videos and being social.
+<br/>
 
-
+<details> <summary>Featured</summary>
 <!-- - 👯 I’m looking to collaborate on [Covid-19 Tracker](https://github.com/theleancoderr/Covid-19India-Tracker-) -->
-- 🔭 I’m currently working on problem solving skills
-- 🌱 I’m currently learning DS and Algo 
-- 💬 Ask me about Anime, Memes, Tech? or whatever I love to talk!
-- 📫 Contact me - [yashhwant544@gmail.com](mailto:yashhwant544@gmail.com)
-- 😄 Pronouns: He/Him
 
+<li>🔭 I’m currently working on problem solving skills</li>
+<li>🌱 I’m currently learning DS and Algo </li>
+<li>💬 Ask me about Anime, Memes, Tech? or whatever I love to talk!</li>
+<li>📫 Contact me - <a href="mailto:yashhwant544@gmail.com">yashhwant544@gmail.com</a></li>
+<li>😄 Pronouns: He/Him</li>
+
+</details> 
+  
 **Language and Tools:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
