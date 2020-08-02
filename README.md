@@ -28,5 +28,7 @@ Hi, My name is Yashwant Singh, I'm pursuing graduation in Bachelors of Computer 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></code>
 
+![Yashwant github stats](https://github-readme-stats.vercel.app/api?username=theleancoderr&show_icons=true&theme=tokyonight) 
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theleancoderr&theme=tokyonight)
-![Yashwant github stats](https://github-readme-stats.vercel.app/api?username=theleancoderr&show_icons=true&theme=tokyonight)
+
